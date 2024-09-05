@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 21574,
         "status": 1,
         "language": "id",
@@ -16,13 +16,13 @@
         ],
         "version": 9,
         "internalName": "Animasu",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Animasu.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Animasu.cs3",
         "name": "Animasu"
     },
     {
         "iconUrl": "https://animeindo.quest/wp-content/uploads/2023/05/favicon-300x300.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 14625,
         "status": 1,
         "language": "id",
@@ -36,13 +36,13 @@
         ],
         "version": 15,
         "internalName": "AnimeIndoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/AnimeIndoProvider.cs3",
         "name": "AnimeIndoProvider"
     },
     {
         "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 15003,
         "status": 1,
         "language": "id",
@@ -56,13 +56,13 @@
         ],
         "version": 10,
         "internalName": "AnimeSailProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeSailProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/AnimeSailProvider.cs3",
         "name": "AnimeSailProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 21183,
         "status": 1,
         "language": "id",
@@ -76,13 +76,13 @@
         "version": 10,
         "internalName": "DramaidProvider",
         "description": "Include: Oppadrama",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/DramaidProvider.cs3",
         "name": "DramaidProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=149.3.170.35&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 16768,
         "status": 1,
         "language": "id",
@@ -94,13 +94,13 @@
         ],
         "version": 6,
         "internalName": "DramaSerial",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/DramaSerial.cs3",
         "name": "DramaSerial"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 12041,
         "status": 1,
         "language": "id",
@@ -115,13 +115,13 @@
         ],
         "version": 1,
         "internalName": "Dubbindo",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Dubbindo.cs3",
         "name": "Dubbindo"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=gomov.bio&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 30912,
         "status": 1,
         "language": "id",
@@ -136,13 +136,13 @@
         "version": 31,
         "internalName": "Gomov",
         "description": "Includes: DutaMovie, Ngefilm, Nodrakorid, Multiplex, Pusatfilm",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomov.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Gomov.cs3",
         "name": "Gomov"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 14701,
         "status": 1,
         "language": "id",
@@ -156,13 +156,13 @@
         ],
         "version": 6,
         "internalName": "Gomunimeis",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomunimeis.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Gomunimeis.cs3",
         "name": "Gomunimeis"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 17993,
         "status": 0,
         "language": "id",
@@ -176,13 +176,13 @@
         ],
         "version": 2,
         "internalName": "GomunimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GomunimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/GomunimeProvider.cs3",
         "name": "GomunimeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 20276,
         "status": 1,
         "language": "id",
@@ -196,13 +196,13 @@
         ],
         "version": 39,
         "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/KuramanimeProvider.cs3",
         "name": "KuramanimeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 23612,
         "status": 1,
         "language": "id",
@@ -216,13 +216,13 @@
         ],
         "version": 20,
         "internalName": "KuronimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuronimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/KuronimeProvider.cs3",
         "name": "KuronimeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 19301,
         "status": 1,
         "language": "id",
@@ -236,13 +236,13 @@
         ],
         "version": 20,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=minioppai.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 19164,
         "status": 1,
         "language": "id",
@@ -254,32 +254,13 @@
         ],
         "version": 11,
         "internalName": "Minioppai",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Minioppai.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Minioppai.cs3",
         "name": "Minioppai"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 17907,
-        "status": 1,
-        "language": "tl",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Moviehab",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Moviehab.cs3",
-        "name": "Moviehab"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 22113,
         "status": 1,
         "language": "id",
@@ -291,13 +272,13 @@
         ],
         "version": 6,
         "internalName": "Nekopoi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nekopoi.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Nekopoi.cs3",
         "name": "Nekopoi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.ink&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 15490,
         "status": 1,
         "language": "id",
@@ -312,13 +293,13 @@
         ],
         "version": 8,
         "internalName": "NeonimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NeonimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/NeonimeProvider.cs3",
         "name": "NeonimeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 20496,
         "status": 1,
         "language": "id",
@@ -332,13 +313,13 @@
         ],
         "version": 11,
         "internalName": "Nimegami",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nimegami.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Nimegami.cs3",
         "name": "Nimegami"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 22470,
         "status": 1,
         "language": "id",
@@ -352,13 +333,13 @@
         ],
         "version": 21,
         "internalName": "NontonAnimeIDProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NontonAnimeIDProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/NontonAnimeIDProvider.cs3",
         "name": "NontonAnimeIDProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 17849,
         "status": 1,
         "language": "id",
@@ -372,13 +353,13 @@
         ],
         "version": 30,
         "internalName": "OploverzProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OploverzProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/OploverzProvider.cs3",
         "name": "OploverzProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 21133,
         "status": 1,
         "language": "id",
@@ -392,13 +373,13 @@
         ],
         "version": 16,
         "internalName": "OtakudesuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OtakudesuProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/OtakudesuProvider.cs3",
         "name": "OtakudesuProvider"
     },
     {
         "iconUrl": "https://raveeflix.my.id/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 18143,
         "status": 1,
         "language": "id",
@@ -412,13 +393,13 @@
         ],
         "version": 3,
         "internalName": "Raveeflix",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Raveeflix.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Raveeflix.cs3",
         "name": "Raveeflix"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=179.43.163.54&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 22172,
         "status": 1,
         "language": "id",
@@ -434,13 +415,13 @@
         "version": 9,
         "internalName": "RebahinProvider",
         "description": "Includes: Cgvindo, Kitanonton",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/RebahinProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/RebahinProvider.cs3",
         "name": "RebahinProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Nucka123/extensions-anjaymabar",
         "fileSize": 16119,
         "status": 1,
         "language": "id",
@@ -454,7 +435,7 @@
         ],
         "version": 22,
         "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Samehadaku.cs3",
+        "url": "https://raw.githubusercontent.com/Nucka123/extensions-anjaymabar/builds/Samehadaku.cs3",
         "name": "Samehadaku"
     }
 ]
